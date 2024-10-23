@@ -1,0 +1,37 @@
+body{
+    background: #5761bb;
+}
+header{
+    margin: 30px 0;   
+}
+
+.container{
+    padding: 20px;
+}
+.contenido-principal{
+    background-color: white;
+    padding: 30px;
+    border-radius:20px;
+}
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto p span{
+    font-weight: normal;
+}
+#gastos{
+    margin-bottom: 30px;
+}
+h1{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: black;
+font-weight: 100;
+}
+h2{
+font-family: 'Times New Roman', Times, serif;
+color:black;
+font-size: 22;
+font-weight: 100;
+margin-bottom: 30px;
+}
